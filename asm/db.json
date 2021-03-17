@@ -1,0 +1,218 @@
+{
+  "products": [
+    {
+      "id": 5,
+      "name": " Son Tom Ford 08 Velvet Cherry  ",
+      "image": "https://lisa.vn/wp-content/uploads/2020/05/tom-ford-08-velvet-cherry-do-ruou-3.jpg",
+      "price": "1.350.000",
+      "status": "đang xử lý",
+      "quantity": 100,
+      "cateID": 2,
+      "description": "Thỏi son Tom Ford 08 Velvet Cherry được ví như một cơn lốc giữa bảng màu son Lip Color Matte đẳng cấp cuốn trôi tâm trí phái đẹp bằng 2 ưu điểm vượt trội: Màu đỏ rượu đẹp ngất ngây và chất son lì có dưỡng cho làn môi căng mọng tựa trái cherry, nhìn là muốn thưởng thức."
+    },
+    {
+      "id": 6,
+      "name": "Son MAC Lustre Màu 522 Spice It Up! – Đỏ Nâu",
+      "image": "https://lisa.vn/wp-content/uploads/2020/12/son-mac-lustre-mau-spice-it-up-do-nau-1.jpg?v=1607857175",
+      "price": "480.000",
+      "status": "đang xử lý",
+      "quantity": 30,
+      "cateID": 1,
+      "description": "Lên đồ cho những buổi tiệc tùng cuối năm, để khuôn mặt thêm ngọt ngào, ấm áp các nàng tuyệt đối đừng bỏ lỡ thỏi son MAC Spice It Up màu đỏ nâu thời thượng nhé! Chất son của em này mềm mịn, giàu dưỡng, khác xa dòng Matte và retro Matte."
+    },
+    {
+      "id": 7,
+      "name": "Son Kem MAC- Đỏ Rượu",
+      "image": "https://lisa.vn/wp-content/uploads/2020/12/son-kem-Mac-Powder-Kiss-Liquid-mau-994-make-love-to-the-camera-do-ruou-1-768x768.jpg?v=1607145236",
+      "price": "650.000",
+      "status": "chưa bán",
+      "quantity": 10,
+      "cateID": 1,
+      "description": "“Công phá” làng mỹ phẩm với bộ sưu tập son kem lì Powder Kiss Liquid, MAC đã thành công “gieo rắc” thương nhớ cho hàng triệu người đẹp với bảng màu đẹp xuất sắc, chất son lì mịn như nhung và khả năng bền màu lên đến 10 tiếng. Nổi bật trong 17 màu son, không thể không kể đến cái tên MAC 994 Make Love To The Camera màu đỏ rượu quyến rũ, tôn da."
+    },
+    {
+      "id": 9,
+      "name": "Son Gucci Rouge – Đỏ Cam",
+      "image": "https://lisa.vn/wp-content/uploads/2020/05/gucci-rouge-a-levers-satin-302-agatha-orange-1.jpg",
+      "price": "900.000",
+      "status": "đã bán",
+      "quantity": 30,
+      "cateID": 2,
+      "description": "Nếu nàng từng yêu thích thỏi son 500 Odalie Red của Gucci thì chắc chắn không thể không động tâm trước thỏi son Gucci Rouge à Lèvres Satin 302 Agatha Orange màu đỏ cam thần thánh này. Sắc son tươi hơn Gucci 500, chất son satin nhiều dưỡng cho môi căng bóng, hấp dẫn hơn."
+    },
+    {
+      "id": 10,
+      "name": "Son Gucci Rouge  – Đỏ Hồng",
+      "image": "https://lisa.vn/wp-content/uploads/2020/11/Son-Gucci-Rouge-a-L%C3%A8vres-Mat-504-Myra-Crimson-mau-do-dam-1.jpg?v=1604589604",
+      "price": "1.000.000",
+      "status": "đã bán",
+      "quantity": 30,
+      "cateID": 2,
+      "description": "Son môi Gucci Rouge à Lèvres Mat 504 Myra Crimson sở hữu tông màu đỏ đậm quyến rũ, lên môi tựa trái cherry chín mọng. Chất son em này lì mịn như nhung, thành phần giàu dưỡng chất, thế nhưng vẫn đảm bảo khả năng bền màu lên đến 8 tiếng."
+    },
+    {
+      "id": 11,
+      "name": "Son MAC Powder Kiss  – Đỏ Cam",
+      "image": "https://lisa.vn/wp-content/uploads/2020/04/son-mac-303.jpg",
+      "price": "4.990.000",
+      "status": "đã bán",
+      "quantity": 50,
+      "cateID": 1,
+      "description": "Cây son MAC Powder Kiss 303 Style Shocked là makeup item không thể thiếu giúp nàng tỏa nắng với màu son đỏ cam tươi trẻ nhưng cũng vô cùng nóng bỏng. Cùng với vỏ đen nhám mới và cải tiến đột phá về chất son cho đôi môi lì mềm mịn, sự tái xuất của MAC lần này đã thổi bùng cảm hứng cho mọi cô nàng yêu son. "
+    },
+    {
+      "id": 12,
+      "name": "Son Black RougeVer 7  – Đỏ Nâu Đất",
+      "image": "https://lisa.vn/wp-content/uploads/2020/11/Son-Black-Rouge-Ver-7-A37-do-nau-dat-3-768x768.jpg?v=1605608613",
+      "price": "215.000",
+      "status": "chưa bán",
+      "quantity": 70,
+      "cateID": 3,
+      "description": "Hit Hot nhất trong bộ sưu tập son kem Air Fit Velvet Tint Version 7 không phải A33 đỏ cam, A34 cam gạch hay A36 cam nâu, mà là cây son Black Rouge A37 màu đỏ nâu đất cực kỳ sang chảnh. Sắc son đẹp quên sầu này kết hợp với chất son tint mịn môi hứa hẹn mang đến cho chị em một trải nghiệm hoàn toàn độc đáo. "
+    },
+    {
+      "id": 13,
+      "name": "Son 3CE Matte Lip Color – Cam Vỏ Quýt Khô",
+      "image": "https://lisa.vn/wp-content/uploads/2020/11/Son-3CE-Matte-Lip-Color-229-Dry-Tangerine-mau-cam-vo-quyt-kho-4-768x768.jpg?v=1604930868",
+      "price": "350.000 ",
+      "status": "chưa bán",
+      "quantity": 30,
+      "cateID": 3,
+      "description": "Thử qua son cam cháy, cam đất rồi, các bạn đã thử thỏi son màu vỏ quýt khô thuộc mã màu son 3CE 229 Dry Tangerine? Chất son lì mịn, màu son lên môi cực ngọt, đi kèm với layout make up tông vàng trẻ đẹp miễn chê. "
+    },
+    {
+      "id": 17,
+      "name": "Son Tom Ford Màu 06 Flame – Đỏ Cam",
+      "image": "https://lisa.vn/wp-content/uploads/2020/05/son-tom-ford-flame-06-flame-do-cam-2.jpg",
+      "price": "1.490.000",
+      "status": "chưa bán",
+      "quantity": "40",
+      "cateID": 3,
+      "description": "Nhắc đến cây son màu đỏ cam không thể không nhắc đến cái tên Tom Ford 06 Flame huyền thoại – Sắc son màu đỏ cam quyến rũ đã khuynh đảo cả thế giới ngay từ lần đầu ra mắt. Son đẹp hoàn mỹ từ màu cho đến chất, mỗi lần xuất hiện như vạn tiễn xuyên tim, khiến mọi giác quan rung động.  "
+    },
+    {
+      "id": 18,
+      "name": "Son 3CE Mickey Đỏ – Cam San Hô",
+      "image": "https://lisa.vn/wp-content/uploads/2020/08/3ce-mickey-do-6-768x768.jpg?v=1597143934",
+      "price": "350.000",
+      "status": "chưa bán",
+      "quantity": 100,
+      "cateID": 3,
+      "description": "Son 3CE Luztic vỏ đỏ có sắc cam san hô tươi mới, trẻ trung. Đây là một trong những “sát thủ ngọt ngào” của phiên bản giới hạn 3CE Disney. Với chất son tint mịn môi, chắc chắn sẽ cho nàng thêm option cực kỳ hay ho cho thời tiết hè thu này."
+    },
+    {
+      "id": 19,
+      "name": "Son Tom Ford Màu 39 In Deep – hihi",
+      "image": "https://lisa.vn/wp-content/uploads/2020/05/son-tom-ford-39-in-deep-do-nau-1.jpg",
+      "price": "1.190.000 ",
+      "status": "chưa bán",
+      "quantity": 50,
+      "cateID": 2,
+      "description": "Son lên môi đẹp, sang trọng phù hợp với tất cả mọi trường hợp như đi chơi, đi tiệc và cả tặng qùa cho ng thân yêu"
+    },
+    {
+      "id": 20,
+      "name": "son dep",
+      "image": "https://file.hstatic.net/1000379579/file/3ce-cloud-tint-g_d7ec97d9c6b647e5a243c06513da6f43.jpg",
+      "price": "1000000",
+      "status": "chưa bán",
+      "quantity": "",
+      "cateID": 2,
+      "description": "",
+      "createdAt": 1614933859400
+    },
+    {
+      "id": 21,
+      "name": "SON DO",
+      "image": "https://file.hstatic.net/1000379579/file/3ce-cloud-tint-g_d7ec97d9c6b647e5a243c06513da6f43.jpg",
+      "price": "1000000",
+      "status": "Chọn trạng thái",
+      "quantity": "",
+      "cateID": null,
+      "description": "",
+      "createdAt": 1614933908559
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "MAC"
+    },
+    {
+      "id": 2,
+      "name": "GUCCI"
+    },
+    {
+      "id": 3,
+      "name": "KIKO"
+    }
+  ],
+  "status": [
+    {
+      "id": 1,
+      "name": "Chưa bán"
+    },
+    {
+      "id": 2,
+      "name": "Đã bán"
+    },
+    {
+      "id": 3,
+      "name": "Đang xử lý"
+    }
+  ],
+  "news": [
+    {
+      "id": 2,
+      "title": "Son lì innisfree Vivid Cotton Ink",
+      "image": "https://cdn.chanhtuoi.com/uploads/2019/09/son-kem-li-07.jpg.webp",
+      "content": "Innisfree là thương hiệu son nổi tiếng đến từ Hàn Quốc chắc hẳn đã rất quen thuộc với các bạn rồi đứng không nào? Đây là dòng son được xếp vào hạng lâu trôi nhất. Chất son rất mịn, lì, mỏng mà không gây cảm giác nặng môi. Với độ dưỡng cao, nên Son kem lì Innisfree không dễ gây khô môi như các loại son khác.."
+    },
+    {
+      "id": 3,
+      "title": "Son kem lì Hàn Quốc Lagivado Color Dye Lip Stain",
+      "image": "https://cdn.chanhtuoi.com/uploads/2020/11/son-kem-li-01.jpg.webp",
+      "content": "Thiết kế son đẹp với vỏ hộp tinh tế, nhỏ gọn. Son cầm rất chắc tay, vừa lực, không ngắn, không dài. Thân cọ vừa đủ dài, đầu cọ hình trài trái lông nhung mượt thoa son đều đồng thời vẽ viền môi chuẩn hơn."
+    },
+    {
+      "id": 4,
+      "title": "Son môi Estee Lauder Pure Color Love Lipstick",
+      "image": "https://cdn.chanhtuoi.com/uploads/2020/11/son-kem-li-03.jpg.webp",
+      "content": "Estee Laude Pure Color Love Lipstick thuộc dòng son môi cao cấp đến từ thương hiệu Estee Laude rất nổi tiếng. Dòng son môi Pure Color Love Lipstick gây ấn tượng với bảng màu đa dạng từ màu on nhạt nhất đến đậm đà, từ trẻ trung đến cổ điển. Phù hợp trong nhiều hoàn cảnh khác nhau."
+    },
+    {
+      "id": 5,
+      "title": "Son tint Benefit Benetint rose-tinted lip & cheek stain",
+      "image": "https://cdn.chanhtuoi.com/uploads/2020/11/son-kem-li-05.jpg.webp",
+      "content": "Benefit là thương hiệu mỹ phẩm trực thuộc tập đoàn Louis Vuitton Moet Henessy tại San Francisco. Các sản phẩm của Benefit luôn gây ấn tượng với thiết kế bao bì đẹp, sang trọng nhưng vẫn rất dễ thương, dễ dùng và tiện lợi."
+    },
+    {
+      "id": 6,
+      "title": "Son kem lì 3CE Velvet Lip Tint",
+      "image": "https://cdn.chanhtuoi.com/uploads/2019/09/son-kem-li-09.jpg.webp",
+      "content": "Thiết kế nhỏ gọn: thân son ông tròn, thon nhỏ và dài, dung lượng 4g. Nắp son vừa khít với thân son mang đến cho người dùng cảm giác đẹp, sang trọng và lộng lẫy."
+    },
+    {
+      "id": 7,
+      "title": "Son Bbia Last Velvet Lip Tint",
+      "image": "https://cdn.chanhtuoi.com/uploads/2019/09/son-kem-li-10.jpg.webp",
+      "content": "Thêm 1 hãng mỹ phẩm nữa đế các bạn tham khảo và lựa chọn nhé - Bbia. Đây là dòng son với thương hiệu nổi tiếng đến từ Hàn Quốc. Tính đến năm 2019, dòng son này cho ra đời 5 version rồi nâng bảng màu son lên đến 25, người dùng thoải mái lựa chọn."
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "name": "Thu Hiền",
+      "email": "hiennttph12225@fpt.edu.vn",
+      "phone": "0969159201",
+      "content": "sản phẩm rất tốt"
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "username": "nguyenthuhien",
+      "password": 12345678
+    }
+  ]
+}
